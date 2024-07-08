@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "233904044640",
+    "firebase_url": "https://blueoceandev-854cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blueoceandev-854cd",
+    "storage_bucket": "blueoceandev-854cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233904044640:android:8da887edbf82dbd530e105",
+        "android_client_info": {
+          "package_name": "com.example.blueoceandive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHI32sxGmi_YVOJQsBPKYh0CKh4viuG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
